@@ -1,0 +1,15 @@
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\bin\Debug\net10.0\LAB3PPGR_2.exe
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\bin\Debug\net10.0\LAB3PPGR_2.deps.json
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\bin\Debug\net10.0\LAB3PPGR_2.runtimeconfig.json
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\bin\Debug\net10.0\LAB3PPGR_2.dll
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\bin\Debug\net10.0\LAB3PPGR_2.pdb
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.AssemblyInfoInputs.cache
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.AssemblyInfo.cs
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.csproj.CoreCompileInputs.cache
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.sourcelink.json
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.dll
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\refint\LAB3PPGR_2.dll
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.pdb
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\LAB3PPGR_2.genruntimeconfig.cache
+C:\Users\s37673\15pazdziernika\LAB3PPGR_2\obj\Debug\net10.0\ref\LAB3PPGR_2.dll

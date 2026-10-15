@@ -1,0 +1,15 @@
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\bin\Debug\net10.0\LAB3PPGR_4.exe
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\bin\Debug\net10.0\LAB3PPGR_4.deps.json
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\bin\Debug\net10.0\LAB3PPGR_4.runtimeconfig.json
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\bin\Debug\net10.0\LAB3PPGR_4.dll
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\bin\Debug\net10.0\LAB3PPGR_4.pdb
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.AssemblyInfoInputs.cache
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.AssemblyInfo.cs
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.csproj.CoreCompileInputs.cache
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.sourcelink.json
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.dll
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\refint\LAB3PPGR_4.dll
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.pdb
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\LAB3PPGR_4.genruntimeconfig.cache
+C:\Users\s37673\15pazdziernika\LAB3PPGR_4\obj\Debug\net10.0\ref\LAB3PPGR_4.dll
