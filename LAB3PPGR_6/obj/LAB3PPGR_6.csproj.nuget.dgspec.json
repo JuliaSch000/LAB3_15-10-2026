@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s37673\\15pazdziernika\\LAB3PPGR_6\\LAB3PPGR_6.csproj": {}
+    "C:\\Users\\admin\\Desktop\\shchool\\project dump\\15paz\\LAB3PPGR_6\\LAB3PPGR_6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s37673\\15pazdziernika\\LAB3PPGR_6\\LAB3PPGR_6.csproj": {
+    "C:\\Users\\admin\\Desktop\\shchool\\project dump\\15paz\\LAB3PPGR_6\\LAB3PPGR_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s37673\\15pazdziernika\\LAB3PPGR_6\\LAB3PPGR_6.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\shchool\\project dump\\15paz\\LAB3PPGR_6\\LAB3PPGR_6.csproj",
         "projectName": "LAB3PPGR_6",
-        "projectPath": "C:\\Users\\s37673\\15pazdziernika\\LAB3PPGR_6\\LAB3PPGR_6.csproj",
-        "packagesPath": "C:\\Users\\s37673\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s37673\\15pazdziernika\\LAB3PPGR_6\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\shchool\\project dump\\15paz\\LAB3PPGR_6\\LAB3PPGR_6.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\shchool\\project dump\\15paz\\LAB3PPGR_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s37673\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
